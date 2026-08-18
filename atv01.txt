@@ -1,0 +1,35 @@
+1. Defina, com suas palavras, o conceito de IoT e mencione um exemplo prático de aplicação
+
+- Internet das Coisas é a área da tecnologia que envolve o desenvolvimento de dispositivos físicos que comuniquem-se através de redes analógicas ou digitais. Um exemplo seria o uso de sensores na agricultura, que coletam dados das lavouras e transmitem para sistemas de gestão em nuvem através de redes wi-fi.
+
+2. Explique por que a falta de padrões de segurança é crítica para dispositivos IoT e dê um exemplo de vulnerabilidade
+
+- Como dispositivos IoT normalmente estão hiperconectados, ou seja, comunicam-se com uma grande variedade de outros dispositivos IoT, qualquer um deles serve como o que chamamos de "vetor" para invasões e ataques maliciosos. Isso significa que os dados sensíveis que trafegam pela rede possuem várias "portas de entrada" que invasores podem tentar explorar. Um exemplo seria uma câmera vulnerável ligada ao roteador de uma residência, a qual pode servir de entrada para um hacker acessar a rede interna do usuário.
+
+3. Descreva "hiper conectividade"
+
+- Estado onde múltiplos dispositivos comunicam-se através de diferentes redes, formando uma "rede de redes"
+
+4. O que significa M2M? Cite um caso de uso real
+
+- Significa o modelo de comunicação máquina para máquina, como por exemplo uma rede bluetooth que permite a troca de dados entre um fone de ouvido e um celular
+
+5. Analise um dispositivo IoT considerado desnecessário "egg minder" e justifique sua opinião em relação ao custo-benefício
+
+- A Hidrate Spark é uma garrafa da água inteligente com sensores que registram a quantidade de líquido engerida pelo usuário, exibindo os dados num app próprio. Embora seja uma função tão simples, o preço se demonstra caro, sendo aproximadamente R$ 200,00.
+
+6. Compare a Web 1.0 e a Web 2.0 e destaque as mudanças mais impactantes na interação dos usuários com a Internet
+
+- A primeira propunha uma comunicação unilateral em páginas estáticas que serviam basicamente para leitura, enquanto a segunda originou as redes sociais onde os usuários tornaram-se ativos geradores de informação
+
+7. Por que a Web 3.0 está associada ao conceito de IoT? Explique a relação com "internet semântica"
+
+- A Web 3.0 corresponde com a época de crescimento acelerado dos smartphones, que impulsionaram outros dispositivos IoT como assistentes e eletrodomésticos inteligentes. Isso tudo é representado pela internet semântica uma vez que a Web 3.0 destaca-se pelo tratamento dos metadados, padronização e dados interligados.
+
+8. Liste 3 desafios ambientais causados pela expansão da IoT e proponha uma solução para cada um deles
+
+- E-waste é o descarte incorreto/acelerado de equipamentos eletrônicos com seus devidos impactos ambientais, a obsolescência programada é uma prática comercial de empresas de tecnologia para estimular o consumismo de novos dispositivos, e 
+
+9. Como os dados coletados por dispositivos vestíveis podem ser monetizados? Discuta benefícios e riscos para os usuários
+
+- 
